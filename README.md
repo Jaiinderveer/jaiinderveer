@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jaiinderveer Singh 👋
 
-<!--
-**Jaiinderveer/jaiinderveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Semester BTech CSE Student  
+💻 Focused on DSA, React, Tailwind, and full-stack development  
+🚀 Building independent projects every Sunday  
+📈 Improving problem solving and frontend engineering daily  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- C++
+- JavaScript
+- React
+- Tailwind CSS
+- Git & GitHub
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+- DSA: 2 questions daily
+- React + Tailwind projects
+- Building internship-ready GitHub
+
+## 🌟 Featured Work
+- Portfolio Website
+- Tic Tac Toe
+- Currency Converter
+- Sunday React Projects
+
+## 🎯 2026 Goal
+- Strong frontend internship
+- 9+ SGPA
+- Advanced React + TypeScript
+- Full-stack development
