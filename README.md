@@ -1,6 +1,6 @@
 # Hi, I'm Jaiinderveer Singh 👋
 
-🎓 BTech CSE Student | 4th Semester  
+🎓 BTech CSE Student | 5th Semester  
 💻 Frontend-focused developer building with React, Tailwind, and JavaScript  
 🧠 Solving DSA daily to strengthen problem-solving and interview skills  
 🚀 Building independent projects every Sunday  
